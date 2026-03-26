@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+build
+coverage
+package-lock.json
+AGENTS.md
+CLAUDE.md
+claims.json
+TAKE_HOME_README.md
